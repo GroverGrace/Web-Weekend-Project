@@ -1,0 +1,25 @@
+th:hover {
+  color: black;
+}
+td:hover {
+  color: darkorange;
+}
+.Hover:hover {
+  color: black;
+}
+.Hover {
+  background-color: darkorange;
+  padding-left: 0.5rem;
+}
+.BREAK {
+  padding-left: 2rem;
+}
+.break {
+  padding-left: 2.5rem;
+}
+h2:hover {
+  color: blue;
+}
+.BRS{
+  width: 20%;
+}
